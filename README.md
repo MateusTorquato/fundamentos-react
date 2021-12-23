@@ -1,3 +1,5 @@
+Aplicando alguns fundamentos do react. Para ver o projeto rodando: https://fundamentos-react-tests.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
